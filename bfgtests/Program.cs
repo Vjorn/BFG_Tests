@@ -7,8 +7,8 @@ string login = "login";
 
 void someMethod()
 {
-    login = "***REMOVED***";
-    pass = "***REMOVED***";
+    login = "";
+    pass = "";
 }
 
 void someMethod2()
