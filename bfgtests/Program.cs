@@ -2,10 +2,16 @@
 
 Console.WriteLine("Hello, World!");
 
-string pass = "***REMOVED***";
-string login = "***REMOVED***";
+string pass = "password";
+string login = "login";
 
 void someMethod()
+{
+    login = "***REMOVED***";
+    pass = "***REMOVED***";
+}
+
+void someMethod2()
 {
     
 }
